@@ -6,9 +6,18 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue) ![language](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-5369da)
 
+## 📮 联系作者 / 星觉科技（商业服务入口）
+
+- **企业官网：** [星觉科技 https://www.a6no1.cn/](https://www.a6no1.cn/)
+- **微信号：** `AIPMAndy`（微信「添加朋友」搜索，备注「知识付费获客」）
+- **个人官网：** [https://metaver.vip/](https://metaver.vip/)
+- **咨询与陪跑：** [https://metaver.vip/services](https://metaver.vip/services)
+
+> 完整教程和模板免费，无需添加微信。微信和企业官网显示在网站首页及全部章节顶部；商业服务可自愿选择。
+
 ## 🌐 在线使用
 
-**[打开免费在线手册](https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/)** （GitHub Pages 部署成功后可访问）
+**[打开免费在线手册](https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/)** （已部署 GitHub Pages）
 
 无需注册、无需登录、不上传客户数据。网站包括四条产品路线、24 个主题、AI 提示词、30 天打卡及获客漏斗计算器。
 
@@ -70,7 +79,7 @@
 
 - [个人官网](https://metaver.vip/)
 - [咨询与陪跑服务](https://metaver.vip/services)
-- [星觉科技](https://www.a6no1.cn/)
+- [星觉科技企业官网](https://www.a6no1.cn/)
 - [免费知识库](https://kb.metaver.vip/)
 - 微信：`AIPMAndy`（备注“知识付费获客”）
 

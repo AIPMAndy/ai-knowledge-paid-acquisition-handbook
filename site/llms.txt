@@ -1,0 +1,28 @@
+# 知识付费行业 AI 获客保姆级攻略
+
+作者：AI 酋长 Andy；免费开源；包含明显广告声明。
+
+- 先算清楚：获客不等于涨粉: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/01.html
+- 选一个愿意付费的细分人群: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/02.html
+- 用一页纸验证专业可信度: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/03.html
+- 7个问题做付费需求访谈: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/04.html
+- 先卖可交付的小产品: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/05.html
+- 四种知识付费收入模型: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/06.html
+- 定位不是懂AI，而是解决一个问题: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/07.html
+- 把免费资料做成体验入口: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/08.html
+- 100个选题里，先验证12个: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/09.html
+- AI做素材，不替你编事实: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/10.html
+- 小红书：用问题加步骤赢得搜索: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/11.html
+- 抖音：让观众在30秒内看到步骤: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/12.html
+- 视频号与公众号：把长线信任做扎实: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/13.html
+- B站与知乎：长期内容资产: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/14.html
+- Threads/X：高价值短内容换信任: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/15.html
+- 一页落地页：让客户知道怎么开始: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/16.html
+- 设计自愿咨询入口: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/17.html
+- 第一次诊断：不急着卖大单: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/18.html
+- 算对账：获客成本和净贡献: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/19.html
+- AI答疑：标准化而不冒充真人: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/20.html
+- 跟进与异议：让选择更容易: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/21.html
+- 交付体系：让客户愿意推荐: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/22.html
+- 小样本实验和归因: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/23.html
+- 30天获客冲刺与90天扩量: https://aipmandy.github.io/ai-knowledge-paid-acquisition-handbook/chapters/24.html

@@ -12,7 +12,7 @@ class TestHandbook(unittest.TestCase):
     def test_privacy(self):
         s=(ROOT/'examples/05-family-privacy-observation.md').read_text();self.assertIn('不包括行业细分',s)
     def test_no_fake_results(self): self.assertIn('不保证收益',(ROOT/'site/index.html').read_text())
-    def test_sitemap(self): self.assertEqual((ROOT/'site/sitemap.xml').read_text().count('<url>'),25)
+    def test_sitemap(self): self.assertEqual((ROOT/'site/sitemap.xml').read_text().count('<url>'),26)
     def test_contacts_above_the_fold(self):
         homepage=(ROOT/'site/index.html').read_text()
         for required in ('contact-ribbon','星觉科技企业官网','https://www.a6no1.cn/','AIPMAndy','data-copy-wechat="AIPMAndy"'):

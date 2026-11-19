@@ -32,9 +32,9 @@
     const perOrder = values.price - values.variable - deliveryLabor;
     const toCover = values.fixed + values.budget;
     if (![deliveryLabor, perOrder, toCover].every(Number.isFinite)) return { ok: false, error: "输入金额过大，无法保证计算精度。" };
-    const rawOrders = perOrder > 0 ? Math.ceil(Math.max(0, toCover / perOrder - 1e-12)) : null;
+    const rawOrders = perOrder > 0 ? Math.ceil(Math.max(0, toCover / perOrder)) : null;
     if (rawOrders !== null && !Number.isSafeInteger(rawOrders)) return { ok: false, error: "所需订单量超出安全计算范围，请缩小数据。" };
-    const leads = rawOrders !== null && values.conversion !== null ? Math.ceil(rawOrders / (values.conversion / 100) - 1e-12) : null;
+    const leads = rawOrders !== null && values.conversion !== null ? Math.ceil(rawOrders / (values.conversion / 100)) : null;
     if (leads !== null && !Number.isSafeInteger(leads)) return { ok: false, error: "估算有效咨询数超出安全计算范围。" };
     return { ok: true, values, deliveryLabor, perOrder, toCover, orders: rawOrders, leads };
   }
